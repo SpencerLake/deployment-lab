@@ -1,0 +1,14 @@
+header {
+    background: black;
+    color: burlywood;
+    text-align: center
+};
+
+.text {
+    background: grey;
+    text-align: center;
+};
+
+.zoom:hover {
+    transform: scale(2);
+}
