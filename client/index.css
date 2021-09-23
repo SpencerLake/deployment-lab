@@ -1,14 +1,10 @@
-header {
-    background: black;
-    color: burlywood;
-    text-align: center
-};
+html,body {
+    text-align:center;
+    background-color: grey;
+}
 
-.text {
-    background: grey;
+header {
+    background-color: black;
+    color: burlywood;
     text-align: center;
 };
-
-.zoom:hover {
-    transform: scale(2);
-}
